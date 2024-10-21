@@ -1,0 +1,2 @@
+# Detrox
+first git repository.
